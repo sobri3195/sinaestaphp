@@ -20,3 +20,7 @@ Platform latihan soal dokter spesialis dengan React/Vite dan REST API PHP native
 Seed lokal menggunakan password `password` untuk `admin@sinaesta.test`, `user@sinaesta.test`, dan `full@sinaesta.test`. Hapus akun seed dan buat kredensial unik sebelum production.
 
 Lihat [panduan backend](backend/README.md), [frontend](frontend/README.md), dan [endpoint API](docs/API.md).
+
+## Deploy frontend ke Vercel
+
+Import repository dari root proyek. Konfigurasi root `vercel.json` akan memasang workspace npm, menjalankan build Vite di `frontend`, memublikasikan `frontend/dist`, dan mengarahkan route SPA ke `index.html`. Jangan mengganti Build Command menjadi `vite build`; gunakan konfigurasi repository (`npm run build`) agar dependency lokal Vite terpasang sebelum build.

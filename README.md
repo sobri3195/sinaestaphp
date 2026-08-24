@@ -19,7 +19,8 @@ Platform latihan soal dokter spesialis dengan React/Vite dan REST API PHP native
 
 Seed lokal menggunakan password `password` untuk `admin@sinaesta.test`, `user@sinaesta.test`, dan `full@sinaesta.test`. Hapus akun seed dan buat kredensial unik sebelum production.
 
-Lihat [panduan backend](backend/README.md), [frontend](frontend/README.md), dan [endpoint API](docs/API.md).
+Lihat [PRD terpadu Sinaesta](docs/PRD.md), [panduan backend](backend/README.md),
+[frontend](frontend/README.md), dan [endpoint API](docs/API.md).
 
 ## Deploy frontend ke Vercel
 

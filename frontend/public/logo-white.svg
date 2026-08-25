@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 104" role="img" aria-labelledby="title">
+  <title id="title">Sinaesta</title>
+  <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="192" cy="22" r="14" stroke-width="7"/><circle cx="192" cy="22" r="2.5" fill="#ffffff" stroke="none"/>
+    <path d="M192 36v10c0 17 10 27 23 27s23-10 23-27V23c0-9 6-15 15-15s15 6 15 15v31" stroke-width="7"/>
+    <path d="M249 83l10-39c2-8 7-12 12-12s10 4 12 12l10 39" stroke-width="6"/>
+    <path d="M249 83c-2 8 4 13 12 13m32-13c2 8-4 13-12 13" stroke-width="6"/>
+    <path d="M266 63h10m-5-5v10" stroke-width="5"/>
+  </g>
+  <text x="2" y="90" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="2">SIN</text>
+  <text x="297" y="90" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="2">ESTA</text>
+</svg>
